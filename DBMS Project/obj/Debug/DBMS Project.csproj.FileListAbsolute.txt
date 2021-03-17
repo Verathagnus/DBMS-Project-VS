@@ -20,3 +20,25 @@ C:\Users\Verathagnus\Desktop\Programming\DBMS\DBMS Project\DBMS Project\bin\Debu
 C:\Users\Verathagnus\Desktop\Programming\DBMS\DBMS Project\DBMS Project\bin\Debug\DBMS Project.application
 C:\Users\Verathagnus\Desktop\Programming\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS Project.exe.manifest
 C:\Users\Verathagnus\Desktop\Programming\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS Project.application
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\bin\Debug\Library.mdf
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\bin\Debug\Library_log.ldf
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\bin\Debug\DBMS Project.exe.config
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\bin\Debug\DBMS Project.exe.manifest
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\bin\Debug\DBMS Project.application
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\bin\Debug\DBMS Project.exe
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\bin\Debug\DBMS Project.pdb
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS Project.csprojAssemblyReference.cache
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.AboutUserControl.resources
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.AppBody.resources
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.BooksUserControl.resources
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.BorrowUserControl.resources
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.Form1.resources
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.Properties.Resources.resources
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.SettingsUserControl.resources
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.TransactionsUserControl.resources
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS Project.csproj.GenerateResource.cache
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS Project.csproj.CoreCompileInputs.cache
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS Project.exe.manifest
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS Project.application
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS Project.exe
+C:\Users\Verathagnus\Desktop\Programming\Old Projects and Labs\DBMS\DBMS Project\DBMS Project\obj\Debug\DBMS Project.pdb
